@@ -1,4 +1,4 @@
-<?php  // Search page - live AJAX search with image support
+<?php  // Search page - fixed image paths and live AJAX search
 require_once 'includes/db.php';
 require_once 'includes/auth.php';
 $pageTitle = 'Search';
