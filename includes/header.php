@@ -1,4 +1,4 @@
-<?php // Header - global navigation and styles
+<?php // Header - fixed footer margin gap
 require_once __DIR__ . '/auth.php';
 $cartCount = getCartCount();
 $currentPage = basename($_SERVER['PHP_SELF'], '.php');
