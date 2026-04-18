@@ -1,4 +1,4 @@
-<?php
+<?php // Header - global navigation and styles
 require_once __DIR__ . '/auth.php';
 $cartCount = getCartCount();
 $currentPage = basename($_SERVER['PHP_SELF'], '.php');
