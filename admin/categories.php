@@ -1,4 +1,4 @@
-<?php // Admin categories - PDO CRUD operations
+<?php // Admin categories - converted to PDO for security
 require_once '../includes/db.php';
 require_once '../includes/auth.php';
 
