@@ -1,4 +1,4 @@
-<?php
+<?php //cart- fix empty cart page
 require_once 'includes/db.php';
 require_once 'includes/auth.php';
 
